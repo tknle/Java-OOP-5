@@ -2,14 +2,16 @@
 Java Programming by Duke University on Coursera
 **Java Programming: Build a Recommendation System**
 
+
+## The project has been built with
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 ## Click [Here](https://www.dukelearntoprogram.com//capstone/recommender.php?id=vkYJpBHZAPhO6C) to see the live version
 
 **How it works**
 - Simply rate the movies in the list from 1 to 10. 1 is the lowest rating and 10 is the highest, or ou can leave it "No rating".
 - The engine will calculate based on your ratings and give you a list of recommended movies.
 
-## The project has been built with
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ## Description
 In this capstone, I work with data for movies, including ratings, similar to how how Netflix or
