@@ -2,6 +2,8 @@
 Java Programming by Duke University on Coursera
 **Java Programming: Build a Recommendation System**
 
+![Project screenshot](https://github.com/tknle/Java-OOP-5/blob/main/Java.JPG)
+![Project screenshot2](https://github.com/tknle/Java-OOP-5/blob/main/JavaRes.JPG)
 
 ## The project has been built with
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
